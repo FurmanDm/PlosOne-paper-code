@@ -1,0 +1,13 @@
+seed: 1337
+data_dir: "/content/drive/My Drive/Combi_datasets/"
+output_dir: "/content/drive/My Drive/glaucoma_uq_outputs"
+model_path: null
+img_height: 128
+img_width: 128
+batch_size: 28
+epochs: 20
+validation_split: 0.30
+mc_runs: 50
+learning_rate: 0.001
+dropout_rate: 0.25
+class_threshold: 0.5

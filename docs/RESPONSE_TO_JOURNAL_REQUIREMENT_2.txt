@@ -1,0 +1,9 @@
+Journal requirement 2:
+Please note that PLOS ONE has specific guidelines on code sharing for submissions in which author-generated code underpins the findings in the manuscript.
+
+Response:
+We have prepared a public code repository containing the code used for image preprocessing, CNN model training and evaluation, Monte-Carlo Dropout inference, uncertainty quantification, thresholding analyses, Monte-Carlo sample-size sensitivity analysis, and generation of the main figures and tables.
+
+The repository includes a README file with step-by-step instructions, package requirements, the expected dataset folder structure, random seed information, and scripts/notebooks corresponding to the analyses reported in the manuscript. The code will be made available without restrictions upon publication of the article under an open-source license. 
+
+The public datasets used in the study are not redistributed in the repository. Instead, the repository provides the dataset sources and the required directory structure so that the analyses can be reproduced from the original public data sources.

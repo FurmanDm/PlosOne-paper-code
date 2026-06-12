@@ -1,0 +1,4 @@
+Code Availability
+
+All code used in this study will be made publicly available without restrictions upon publication. The repository contains code for fundus image preprocessing, data augmentation, CNN model training and evaluation, Monte-Carlo Dropout inference, computation of entropy-, variance-, and IQR-based uncertainty metrics, uncertainty-informed referral analyses, Monte-Carlo sample-size sensitivity analysis, and generation of the main figures and tables reported in the manuscript. The repository also includes a README file, package requirements, and instructions for reproducing the analyses using the public datasets described in the manuscript.
+
